@@ -12,7 +12,7 @@ for(var i=0;i<friends.length;i++){
         if(lowerNumber === 1){
             var word2 = " line"
         }
-        console.log(friends[i] + ": " + [j] + word + " of code on the wall " + [j] + word + " of code; " + friends[i] +  " strikes one out, clears it all out, " +
+        console.log(friends[i] + ": " + [j] + word + " of code in the file " + [j] + word + " of code; " + friends[i] +  " strikes one out, clears it all out, " +
             lowerNumber +  word2 + " of code in the file");
     }
 }
